@@ -6,6 +6,7 @@ authors = ["nick <nick1998chen0725@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pymongo = "^4.3.3"
 
 [tool.poetry.dev-dependencies]
 
